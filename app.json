@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "e-commerce-ui-react-native-nativewind",
-    "slug": "e-commerce-ui-react-native-nativewind",
+    "slug": "warung",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "84e39695-6345-4790-8374-684cb7f34d47"
+      }
+    },
+    "owner": "ikyyjs"
   }
 }
